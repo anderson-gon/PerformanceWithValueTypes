@@ -1,0 +1,13 @@
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.exe
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.deps.json
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.runtimeconfig.json
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.runtimeconfig.dev.json
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.dll
+D:\labs\C#\performance\ClassVsStruct\bin\Debug\netcoreapp3.1\ClassVsStruct.pdb
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.csprojAssemblyReference.cache
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.AssemblyInfoInputs.cache
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.AssemblyInfo.cs
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.csproj.CoreCompileInputs.cache
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.dll
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.pdb
+D:\labs\C#\performance\ClassVsStruct\obj\Debug\netcoreapp3.1\ClassVsStruct.genruntimeconfig.cache
